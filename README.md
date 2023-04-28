@@ -1,1 +1,1 @@
-# go-telemetry
+telemetry
